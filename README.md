@@ -15,3 +15,10 @@ when we execute it fist time it raise an exception such that get_path_songs is c
 ->created a class named mainframe to handle next song, previous song, pause (buttons) and used some tkinter methods.
 
 ![class_mainframe_1](https://user-images.githubusercontent.com/26970266/37052627-e2b07c54-219f-11e8-979d-e0f8df5f997d.png)
+
+![this_not_that](https://user-images.githubusercontent.com/26970266/37052728-1fb4bdd6-21a0-11e8-9d94-dd9f77af1954.png)
+
+
+when it is executed output will be in this format:
+1) three buttons will be present 
+

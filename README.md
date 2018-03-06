@@ -22,3 +22,13 @@ when we execute it fist time it raise an exception such that get_path_songs is c
 when it is executed output will be in this format:
 1) three buttons will be present 
 
+![mp3_player_photo](https://user-images.githubusercontent.com/26970266/37053027-1587ba92-21a1-11e8-99aa-07897f506ad4.png)
+
+2)when the pause button is pressed the current song which is playing is paused
+
+3)when pre button is pressed the pointer in lists(which has read all the data from the file created) move up and the song is played
+
+4)when next button is pressed the pointer increments and the song at that position is played
+
+5)the last displayed song denotes the currect song playing.
+

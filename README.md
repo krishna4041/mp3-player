@@ -31,4 +31,7 @@ when it is executed output will be in this format:
 4)when next button is pressed the pointer increments and the song at that position is played
 
 5)the last displayed song denotes the currect song playing.
-
+window size go on increasing as the no.of songs increases
+![to_pasete_in_repos](https://user-images.githubusercontent.com/26970266/37053377-f8725cd6-21a1-11e8-8661-15d32e50049b.png)
+ 
+ Thank you!
